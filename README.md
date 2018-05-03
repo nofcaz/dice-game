@@ -11,3 +11,7 @@ This application achieves its functionality through assigning event listeners to
 ## Game in progress:
 
 ![Game](https://i.imgur.com/qCAXy5G.png?1 'Game')
+
+## End screen with winner:
+
+![Win](https://i.imgur.com/r421Hi3.png?1 'Win')
